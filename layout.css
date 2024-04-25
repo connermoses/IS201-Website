@@ -1,0 +1,40 @@
+body {
+    background-color: O#555555;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common{
+    background-color: #cccccc;
+    border: 2px solid white;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+    .leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    height: 200%
+
+    }
+    .mainbody { 
+    top: 114px;
+    left: 114px;
+    height: 200%
+
+    }
+
+.rightmenu {
+   top: 114px;
+   right: 5px;
+   width: 100px;
+   height: 200%
+   
+   
+}
+

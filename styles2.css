@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline
+}
+
+h5{
+    text-align: center;
+    font-style: italic;
+}
+a{color: blue;
+}
+a:visited{
+    color: purple;
+}
+img{
+    border: 10px solid darkred;
+    padding: 10px;
+    margin: 50px;
+    display: block;
+    margin: auto;
+}
+.rizz{
+    display: block;
+    color: brown;
+    border: dashed magenta 5px;
+    text-align: center;
+}
+.rizz:hover{
+    color:navajowhite;
+    font-size: 40px;
+    font-style: italic;
+    font-family: chiller, 'Comic Sans MS';
+
+
+
+}
